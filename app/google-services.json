@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "989416029946",
+    "firebase_url": "https://demoytchannel-8a17e-default-rtdb.firebaseio.com",
+    "project_id": "demoytchannel-8a17e",
+    "storage_bucket": "demoytchannel-8a17e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989416029946:android:c2919ea7ecc01c7d2bd343",
+        "android_client_info": {
+          "package_name": "com.example.ytchannel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989416029946-p1gj020ccmec0tajhc8avb9gm579egh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA12waMoEkasnVhgylnVFvLADDInqvqDYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989416029946-p1gj020ccmec0tajhc8avb9gm579egh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
